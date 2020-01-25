@@ -1,7 +1,7 @@
 # Controle Financeiro
 # Leonardo de Moura Bombem Mancini  
 # RA: 1800196
-# USUARIO: gabrielimpacta123
+# USUARIO: leonardomoura123
 
 # Deverá ser utilizado os seguintes componentes:
 # Visual Studio;   ok
