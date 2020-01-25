@@ -1,6 +1,6 @@
 # Controle Financeiro
-# GABRIEL DA SILVA BEZERRA
-# RA: 1801171
+# Leonardo de Moura Bombem Mancini  
+# RA: 1800196
 # USUARIO: gabrielimpacta123
 
 # Deverá ser utilizado os seguintes componentes:
